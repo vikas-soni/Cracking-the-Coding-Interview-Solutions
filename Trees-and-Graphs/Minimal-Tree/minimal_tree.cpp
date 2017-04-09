@@ -30,6 +30,7 @@ binary_tree_node<int>* minimal_tree(vector<int>& input)
 
 int main()
 {
+	// 4 test cases
 	binary_tree_node<int>* result = nullptr;
 	vector<int> input1 = {};
 	result = minimal_tree(input1);
